@@ -9,4 +9,5 @@ code with comment
 - custom types
   - [structures](./custom_types/strctures/)
   - [enums](./custom_types/enums/)
-  - [use](./custom_types/use_declaration/)
+    - [use](./custom_types/use_declaration/)
+    - [c-like](./custom_types/c_like/)
