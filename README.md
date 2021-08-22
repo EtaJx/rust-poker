@@ -11,3 +11,4 @@ code with comment
   - [enums](./custom_types/enums/)
     - [use](./custom_types/use_declaration/)
     - [c-like](./custom_types/c_like/)
+    - [linked-list](./custom_types/linked_list/)
