@@ -1,0 +1,2 @@
+- Tuple structs, which are, basically, named tuples. The classic [C structs](https://en.wikipedia.org/wiki/Struct_(C_programming_language))
+- Unit structs, which are field-less, are useful for generics.
