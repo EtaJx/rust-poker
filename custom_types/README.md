@@ -1,0 +1,2 @@
+- `struct`: define a strcture
+- `enum`: define an enumeration
